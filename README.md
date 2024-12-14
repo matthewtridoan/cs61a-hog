@@ -17,8 +17,7 @@ cs61a-hog/
 ├── dice.py          # Dice-rolling functions and utilities
 ├── hog_gui.py       # Graphical User Interface for playing Hog
 ├── tests/           # Directory containing test files
-├── README.md        # Project overview and instructions (this file)
-└── requirements.txt # Dependencies for running the project
+└── README.md        # Project overview and instructions (this file)
 ```
 
 ## Getting Started
