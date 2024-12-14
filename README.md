@@ -64,8 +64,6 @@ We call a number sus if it has exactly 3 or 4 factors, including 1 and the numbe
 - **Example 2**: A player with 63 points rolls 5 dice and earns 1 point from their turn. Their new score would be 64 (Sow Sad 😢), which has 7 factors: 1, 2, 4, 8, 16, 32, and 64. Since 64 is not sus, the score of the player is unchanged.
 - **Example 3**: A player has 49 points and rolls 5 dice that total 18 points. Their new score would be 67, which is prime and has 2 factors: 1 and 67. Since 67 is not sus, the score of the player is unchanged.
 
-More details about the rules can be found in the [CS61A Hog Project description](https://cs61a.org/projects/hog/).
-
 ## Contributing
 Contributions are welcome! If you'd like to make changes or improvements, feel free to fork the repository, make your changes, and submit a pull request.
 
